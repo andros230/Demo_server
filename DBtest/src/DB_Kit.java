@@ -19,6 +19,7 @@ public class DB_Kit {
 	private Statement statement = null;
 	private PreparedStatement preparedStatement = null;
 	private ResultSet resultSet = null;
+	
 
 	public DB_Kit() {
 		try {
