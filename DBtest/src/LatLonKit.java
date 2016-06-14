@@ -27,5 +27,6 @@ public class LatLonKit {
     public void setLatitude(String latitude) {
         this.latitude = latitude;
     }
+    
 
 }
